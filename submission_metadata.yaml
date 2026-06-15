@@ -10,8 +10,8 @@ Team_Members:
   - Email: 30jayporwal@gmail.com
   - Phone: +91-881576927
 
-Github_Repo: "Link baad mein dalenge"
-Sandbox_Link: "Link baad mein dalenge"
+Github_Repo: https://github.com/Jai-18-cyber/Redrob-Ai-Ranker
+Sandbox_Link: https://colab.research.google.com/drive/1QJ-cs7INCrfomuK4a8jRk0Radsi_jDR8?usp=sharing
 
 Ai_Tools_Used:
   - "Used AI for debugging Python code, structuring the logic, and understanding vector embeddings architecture."
