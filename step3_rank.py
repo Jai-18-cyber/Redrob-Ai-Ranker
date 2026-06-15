@@ -86,7 +86,7 @@ def run_hackathon_ranker():
     output_filename = "team_submission.csv"
     submission_df.to_csv(output_filename, index=False)
     
-    print(f"\n✅ BOOM! Hackathon task complete. '{output_filename}' is successfully generated!")
+    print(f"\n '{output_filename}' is successfully generated!")
     print(submission_df.head(5))
 
 if __name__ == "__main__":
