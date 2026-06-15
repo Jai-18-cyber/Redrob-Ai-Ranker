@@ -1,0 +1,27 @@
+Team_Name: Team Kaliber  # Yahan apna naam ya koi cool tag daal do
+
+Primary_Contact:
+  Name: Jai Porwal
+  Email: 30jayporwal@gmail.com
+  Phone: +91-8815769274
+
+Team_Members:
+  - Name: Jai Porwal
+    Email: 30jayporwal@gmail.com
+    Phone: +91-881576927
+
+Github_Repo: "Link baad mein dalenge"
+Sandbox_Link: "Link baad mein dalenge"
+
+Ai_Tools_Used:
+  - "Used AI for debugging Python code, structuring the logic, and understanding vector embeddings architecture."
+
+Methodology_Summary: |
+  I built a 2-step Local AI Pipeline. First, I pre-computed candidate text into dense vectors using 'all-MiniLM-L6-v2' to bypass the 5-minute compute limit. Second, I used Cosine Similarity for semantic matching against the JD. Finally, I applied a Behavioral Multiplier (response rate) and a Honeypot Penalty (marketing/HR titles) to filter out bad profiles and active traps.
+
+Declarations:
+  Read_Submission_Spec: true
+  Code_is_original_work: true
+  No_Collusion: true
+  Honeypot_check_done: true
+  Reproduction_tested: true
