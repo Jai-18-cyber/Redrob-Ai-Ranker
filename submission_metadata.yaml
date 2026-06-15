@@ -1,4 +1,4 @@
-Team_Name: Team Kaliber  # Yahan apna naam ya koi cool tag daal do
+Team_Name: Team Kaliber
 
 Primary_Contact:
   Name: Jai Porwal
@@ -7,8 +7,8 @@ Primary_Contact:
 
 Team_Members:
   - Name: Jai Porwal
-    Email: 30jayporwal@gmail.com
-    Phone: +91-881576927
+  - Email: 30jayporwal@gmail.com
+  - Phone: +91-881576927
 
 Github_Repo: "Link baad mein dalenge"
 Sandbox_Link: "Link baad mein dalenge"
