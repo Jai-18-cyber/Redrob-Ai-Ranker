@@ -1,0 +1,51 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,0.5956,Strong semantic match. Recommendation Systems Engineer with 6.0 yrs exp. Active candidate with 91% response rate.
+CAND_0000049,2,0.537,Strong semantic match. Mechanical Engineer with 11.8 yrs exp. Active candidate with 59% response rate.
+CAND_0000037,3,0.5339,Strong semantic match. Business Analyst with 14.3 yrs exp. Active candidate with 78% response rate.
+CAND_0000014,4,0.5276,Strong semantic match. Frontend Engineer with 8.4 yrs exp. Active candidate with 80% response rate.
+CAND_0000007,5,0.5225,Strong semantic match. Civil Engineer with 5.5 yrs exp. Active candidate with 62% response rate.
+CAND_0000045,6,0.518,Strong semantic match. Project Manager with 12.2 yrs exp. Active candidate with 62% response rate.
+CAND_0000025,7,0.5178,Strong semantic match. Frontend Engineer with 7.3 yrs exp. Active candidate with 74% response rate.
+CAND_0000020,8,0.5144,Strong semantic match. Mechanical Engineer with 6.3 yrs exp. Active candidate with 55% response rate.
+CAND_0000009,9,0.506,Strong semantic match. Mechanical Engineer with 11.0 yrs exp. Active candidate with 53% response rate.
+CAND_0000027,10,0.5042,Strong semantic match. DevOps Engineer with 3.9 yrs exp. Active candidate with 57% response rate.
+CAND_0000048,11,0.502,Strong semantic match. Mobile Developer with 9.7 yrs exp. Active candidate with 65% response rate.
+CAND_0000044,12,0.4984,Strong semantic match. Frontend Engineer with 5.7 yrs exp. Active candidate with 66% response rate.
+CAND_0000032,13,0.4978,Strong semantic match. .NET Developer with 8.1 yrs exp. Active candidate with 69% response rate.
+CAND_0000023,14,0.4971,Strong semantic match. Software Engineer with 3.7 yrs exp. Active candidate with 56% response rate.
+CAND_0000021,15,0.4939,Strong semantic match. Project Manager with 14.5 yrs exp. Active candidate with 49% response rate.
+CAND_0000046,16,0.4818,Strong semantic match. Mechanical Engineer with 7.8 yrs exp. Active candidate with 41% response rate.
+CAND_0000011,17,0.4764,Strong semantic match. QA Engineer with 2.0 yrs exp. Active candidate with 56% response rate.
+CAND_0000047,18,0.4752,Strong semantic match. Project Manager with 2.4 yrs exp. Active candidate with 39% response rate.
+CAND_0000022,19,0.4747,Strong semantic match. Mechanical Engineer with 1.1 yrs exp. Active candidate with 27% response rate.
+CAND_0000050,20,0.4705,Strong semantic match. Business Analyst with 13.5 yrs exp. Active candidate with 42% response rate.
+CAND_0000036,21,0.4637,Strong semantic match. Project Manager with 11.3 yrs exp. Active candidate with 40% response rate.
+CAND_0000015,22,0.4603,Strong semantic match. Software Engineer with 5.4 yrs exp. Active candidate with 32% response rate.
+CAND_0000013,23,0.4547,Strong semantic match. Civil Engineer with 1.1 yrs exp. Active candidate with 28% response rate.
+CAND_0000019,24,0.4541,Strong semantic match. Project Manager with 6.5 yrs exp. Active candidate with 34% response rate.
+CAND_0000035,25,0.4516,Strong semantic match. Full Stack Developer with 4.3 yrs exp. Active candidate with 34% response rate.
+CAND_0000010,26,0.4471,Strong semantic match. Data Engineer with 4.6 yrs exp. Active candidate with 40% response rate.
+CAND_0000001,27,0.444,Strong semantic match. Backend Engineer with 6.9 yrs exp. Active candidate with 34% response rate.
+CAND_0000006,28,0.4308,Strong semantic match. Business Analyst with 6.0 yrs exp. Active candidate with 12% response rate.
+CAND_0000018,29,0.4294,Strong semantic match. Frontend Engineer with 6.6 yrs exp. Active candidate with 16% response rate.
+CAND_0000034,30,0.428,Strong semantic match. Business Analyst with 14.5 yrs exp. Active candidate with 15% response rate.
+CAND_0000038,31,0.4259,Strong semantic match. Java Developer with 6.7 yrs exp. Active candidate with 20% response rate.
+CAND_0000043,32,0.4229,Strong semantic match. Cloud Engineer with 8.3 yrs exp. Active candidate with 4% response rate.
+CAND_0000029,33,0.4208,Strong semantic match. Business Analyst with 7.2 yrs exp. Active candidate with 12% response rate.
+CAND_0000024,34,0.0543,Strong semantic match. HR Manager with 7.5 yrs exp. Active candidate with 78% response rate.
+CAND_0000026,35,0.0514,Strong semantic match. Graphic Designer with 6.8 yrs exp. Active candidate with 59% response rate.
+CAND_0000030,36,0.0508,Strong semantic match. Marketing Manager with 10.0 yrs exp. Active candidate with 66% response rate.
+CAND_0000042,37,0.0501,Strong semantic match. HR Manager with 5.0 yrs exp. Active candidate with 57% response rate.
+CAND_0000039,38,0.0488,Strong semantic match. Marketing Manager with 3.9 yrs exp. Active candidate with 52% response rate.
+CAND_0000016,39,0.0486,Strong semantic match. Accountant with 5.3 yrs exp. Active candidate with 64% response rate.
+CAND_0000003,40,0.0476,Strong semantic match. Customer Support with 1.1 yrs exp. Active candidate with 46% response rate.
+CAND_0000008,41,0.0476,Strong semantic match. Operations Manager with 3.6 yrs exp. Active candidate with 42% response rate.
+CAND_0000040,42,0.0472,Strong semantic match. Customer Support with 1.6 yrs exp. Active candidate with 46% response rate.
+CAND_0000005,43,0.0454,Strong semantic match. Accountant with 11.0 yrs exp. Active candidate with 37% response rate.
+CAND_0000002,44,0.045,Strong semantic match. Operations Manager with 12.5 yrs exp. Active candidate with 28% response rate.
+CAND_0000004,45,0.0449,Strong semantic match. Marketing Manager with 3.8 yrs exp. Active candidate with 26% response rate.
+CAND_0000017,46,0.0436,Strong semantic match. Accountant with 12.3 yrs exp. Active candidate with 27% response rate.
+CAND_0000012,47,0.0423,Strong semantic match. Operations Manager with 1.1 yrs exp. Active candidate with 16% response rate.
+CAND_0000028,48,0.042,Strong semantic match. Operations Manager with 1.1 yrs exp. Active candidate with 14% response rate.
+CAND_0000033,49,0.0413,Strong semantic match. Graphic Designer with 8.6 yrs exp. Active candidate with 8% response rate.
+CAND_0000041,50,0.0406,Strong semantic match. Operations Manager with 13.7 yrs exp. Active candidate with 7% response rate.
